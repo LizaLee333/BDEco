@@ -1,0 +1,23 @@
+body {
+  background-color: #070D59;
+
+}
+
+h1{
+  font-family: 'Cinzel', serif;
+  color: white;
+}
+
+img{
+  width: 100%;
+}
+
+p {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+}
